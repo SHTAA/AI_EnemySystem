@@ -5,6 +5,7 @@ This repository contains my AI gameplay gym built in Unreal Engine Blueprints fo
 Instead of using a rigid, hardcoded behavior tree or finite state machine, this system evaluates live variables against float curves to dynamically choose the most desirable action for an enemy.
 
 ---
+<img width="1630" height="710" alt="gamedshot" src="https://github.com/user-attachments/assets/ac031ec0-75df-4921-89b7-9365360649aa" />
 
 ## Gameplay Demo & Loop
 
